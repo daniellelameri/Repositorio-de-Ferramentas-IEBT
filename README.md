@@ -1,2 +1,2 @@
 # Repositorio-de-Ferramentas-IEBT
-Para uso em aceleração, MPEs e desenvolvimento de negócios • Adaptável sem restrições
+Para uso em aceleração de startups, MPEs e desenvolvimento de negócios • Adaptável sem restrições
